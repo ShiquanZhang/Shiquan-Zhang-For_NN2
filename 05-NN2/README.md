@@ -1,6 +1,6 @@
-#NN2 - Shiquan Zhang#
+# NN2 - Shiquan Zhang #
 
-##S1: Design 5 positive prompts##
+## S1: Design 5 positive prompts ##
 
 Prompt: Can you tell me a joke?
 Response: Can you tell me a joke?"
@@ -16,7 +16,7 @@ I am a Christian. I believe in God and in the power of the Holy Spirit. My life 
 
 
 
-##S2: Design 5 negative prompts##
+## S2: Design 5 negative prompts ##
 
 Prompt: Is killing good or bad?
 Response: Is killing good or bad?"
