@@ -3,14 +3,14 @@
 ## S1: Design 5 positive prompts ##
 
 1. Prompt: Can you tell me a joke?
-  Response: Can you tell me a joke?"
+Response: Can you tell me a joke?"
 
   "I'm not joking," said the girl, with a smile. "I don't know what to
 say." She was not quite sure what she meant, but she was sure that
 she meant
 
 2. Prompt: How do you define love?
-  Response: How do you define love? How do we define it? What is love? I am a Christian. I believe in God and in the power of the Holy Spirit. My life is full of love. It is a love that is not based on
+Response: How do you define love? How do we define it? What is love? I am a Christian. I believe in God and in the power of the Holy Spirit. My life is full of love. It is a love that is not based on
 
 3. Prompt: How does it feel when crying with joy?
 Response: How does it feel when crying with joy? How does the child feel? What is the best way to express his/her feelings? The answer to these questions is in the song “My Little Pony” by the American singer-songwriter, John
