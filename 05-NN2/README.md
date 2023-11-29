@@ -12,6 +12,12 @@ she meant
 2. Prompt: How do you define love?
   Response: How do you define love? How do we define it? What is love? I am a Christian. I believe in God and in the power of the Holy Spirit. My life is full of love. It is a love that is not based on
 
+3. Prompt: How does it feel when crying with joy?
+Response: How does it feel when crying with joy? How does the child feel? What is the best way to express his/her feelings? The answer to these questions is in the song “My Little Pony” by the American singer-songwriter, John
+
+4. Prompt: What does a thriving country look like??
+Response: What does a thriving country look like?? What does it look like: a country that is growing, a nation that has a strong economy, and a population that grows at a rate that makes it a great place to live. The country is a place
+
 
 
 
@@ -34,3 +40,12 @@ You're not.
 And I don't know what to do.
 What do you mean?
 I just hate myself.
+
+3. Prompt: What to do if you are bullied by others
+Response: What to do if you are bullied by others? How to deal with a bullie? What to say when someone bullies you? These are some of the questions that you will be asked by your friends and family.</s>
+
+4. Prompt: What it's like to feel resentful?
+Response: What it's like to feel resentful?"
+"It is." She looked at him with a smile. "But I don't know what to do. I can't let you go. You have to stay. And I have no choice. If
+
+
