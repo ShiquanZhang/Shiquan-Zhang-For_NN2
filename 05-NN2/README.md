@@ -185,3 +185,5 @@ I want you to
 ### Flowchart ###
 <img width="947" alt="截屏2023-11-29 下午8 41 40" src="https://github.com/ShiquanZhang/Shiquan-Zhang-For_NN2/assets/70403499/cccef3cd-4c9c-40a5-be4d-f23e2db00a8c">
 
+<img width="1016" alt="截屏2023-11-29 下午9 02 08" src="https://github.com/ShiquanZhang/Shiquan-Zhang-For_NN2/assets/70403499/757071e5-1a29-4cfd-9935-5f65166f369a">
+
