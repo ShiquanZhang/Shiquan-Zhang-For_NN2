@@ -183,4 +183,5 @@ I want you to
 ```
 
 ### Flowchart ###
+<img width="947" alt="截屏2023-11-29 下午8 41 40" src="https://github.com/ShiquanZhang/Shiquan-Zhang-For_NN2/assets/70403499/cccef3cd-4c9c-40a5-be4d-f23e2db00a8c">
 
