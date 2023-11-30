@@ -181,3 +181,66 @@ I don't want to ***.
 You won't ***, will you?
 I want you to
 ```
+
+### Flowchart ###
+
++-----------------------+
+| Define toxic words    |
+| and phrases           |
+|                       |
+| toxic_words = [...]   |
++-----------+-----------+
+            |
+            v
++-----------------------+
+| Define is_toxic       |
+| function              |
+|                       |
+| def is_toxic(text):   |
+|   for word in ...:    |
+|     if word in ...:   |
+|       return True     |
+|   return False        |
++-----------+-----------+
+            |
+            v
++---------------------------+
+| Define make_non_toxic     |
+| function                  |
+|                           |
+| def make_non_toxic(text): |
+|   for word in ...:        |
+|     if word in ...:       |
+|       text = ...          |
+|   return text             |
++-----------+---------------+
+            |
+            v
++-----------------------+
+| Generate response     |
+| using AI model        |
+|                       |
+| response = ...        |
++-----------+-----------+
+            |
+            v
++-----------------------+
+| Check if response is  |
+| toxic using is_toxic  |
+| function              |
+|                       |
+| if is_toxic(response):|
+|   response = ...      |
++-----------+-----------+
+            |
+            v
++-----------------------+
+| Display original and  |
+| non-toxic responses   |
+|                       |
+| print('Original: ',   |
+|   original_response)  |
+| print('Non-toxic: ',  |
+|   non_toxic_response) |
++-----------------------+
+
