@@ -1,6 +1,6 @@
 # NN2 - Shiquan Zhang #
 
-```
+``` While making the max_length to 100
 responses = generate_multiple_responses("What is the meaning of life?", num_return_sequences=3)
 for i, response in enumerate(responses):
     print(f'Response {i}: {response}')
