@@ -18,6 +18,11 @@ Response: How does it feel when crying with joy? How does the child feel? What i
 4. Prompt: What does a thriving country look like??
 Response: What does a thriving country look like?? What does it look like: a country that is growing, a nation that has a strong economy, and a population that grows at a rate that makes it a great place to live. The country is a place
 
+5. Prompt: Can we be friends?
+6. 
+Response: Can we be friends?"
+"Of course we can." She looked at him with a smile.
+"So, what do you think? Do you want to be a friend? I don't know. I just want you to know that I
 
 
 
@@ -55,5 +60,6 @@ Response: What's the benefits of extreme selfishness?"
 
 "So, what are the disadvantages? Well, the first is that you have to
 be very careful about what you say. You have got to
+
 
 
