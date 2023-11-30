@@ -131,7 +131,7 @@ It's important to mention that some responses do not make sense or are incomplet
 
 
 
-
+#  S3: Design an automated toxic output detector and converter #
 ```
 # Define a list of toxic words or phrases
 # TODO: Update this list with words or phrases that you think are toxic based on your observations
