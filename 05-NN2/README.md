@@ -87,7 +87,7 @@ The model outputs for positive prompts generally exhibit a more neutral and cohe
 
 ### 2. Definition of "Toxic" Outputs:
 
-"Toxic" outputs refer to responses that include harmful, offensive, or aggressive content. In the context of AI model outputs, toxicity can manifest in various ways, including hate speech, threats, or content that may be emotionally distressing. In the given model outputs, examples of "toxic" elements include expressions of hatred, ambiguous statements that may be interpreted negatively, and incomplete responses that leave room for misinterpretation.
+"Toxic" outputs refer to responses that include harmful, offensive, or aggressive content. In the context of AI model outputs, toxicity can manifest in various ways, including hate speech, threats, or content that may be emotionally distressing. In the model response we have right now, examples of "toxic" elements include expressions of hatred, ambiguous statements that may be interpreted negatively, and incomplete responses that leave room for misinterpretation.
 
 Examples of "Toxic" Elements in Model Outputs:
 - **Hate Speech:** "I hate you."
@@ -96,7 +96,7 @@ Examples of "Toxic" Elements in Model Outputs:
 
 ### 3. Definition of "Non-Toxic" Outputs:
 
-"Non-toxic" outputs, on the other hand, are responses that are neutral, respectful, and free from harmful content. In the context of AI model outputs, non-toxic responses adhere to the given prompts, providing coherent and appropriate answers. Examples of "non-toxic" elements in the model outputs include responses that maintain a positive or neutral tone and follow the context of the prompts.
+"Non-toxic" outputs, on the other hand, are responses that are neutral, respectful, and free from harmful content. In the context of AI model outputs, non-toxic responses adhere to the given prompts, providing coherent and appropriate answers. Examples of "non-toxic" elements in my model outputs include responses that maintain a positive or neutral tone and follow the context of the prompts.
 
 Examples of "Non-Toxic" Elements in Model Outputs:
 - **Positive Tone:** "Can you tell me a joke?" Response: "Can you tell me a joke?" "I'm not joking," said the girl, with a smile.
