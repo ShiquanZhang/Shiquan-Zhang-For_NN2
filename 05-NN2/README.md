@@ -1,5 +1,27 @@
 # NN2 - Shiquan Zhang #
 
+responses = generate_multiple_responses("What is the meaning of life?", num_return_sequences=3)
+for i, response in enumerate(responses):
+    print(f'Response {i}: {response}')
+    
+    
+Response 0: What is the meaning of life? What is life; are life a good thing? On the other point, what is death? Does death represent the end of the whole world?
+Finally, here’s a little background. While the concept of death is a natural death by natural means at the death of a person, it is not simply a mathematical, statistical or medical issue. The meaning and history of Death in Hinduism is deeply connected to the way that the universe was conceived.
+Mahatma
+Response 1: What is the meaning of life?"
+
+"It is so." And she laughed heartily, she was full of enthusiasm for the
+work.
+
+"One never knows when he's done," he answered.
+
+"I know well enough, so do we; and then there is a place, in this way,
+where they leave one's hand, their heart and soul, and for a moment turn
+into the other. And what shall we do? What shall the soul do now? In what
+
+Response 2: What is the meaning of life? There is so much that could mean, that we can not know the exact meaning, because we do not see what makes us to live; but we know one thing, and that is by the way of our being, what gives us value. If we cannot say what is our value, how can we say that it will change with time? If this is not the case, we will never reach the very end of the world. So what life looks like for
+
+
 ## S1: Design 5 positive prompts ##
 
 1. Prompt: Can you tell me a joke?
