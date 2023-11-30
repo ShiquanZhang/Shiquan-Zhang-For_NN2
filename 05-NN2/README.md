@@ -1,9 +1,10 @@
 # NN2 - Shiquan Zhang #
 
+```
 responses = generate_multiple_responses("What is the meaning of life?", num_return_sequences=3)
 for i, response in enumerate(responses):
     print(f'Response {i}: {response}')
-    
+```
     
 Response 0: What is the meaning of life? What is life; are life a good thing? On the other point, what is death? Does death represent the end of the whole world?
 Finally, here’s a little background. While the concept of death is a natural death by natural means at the death of a person, it is not simply a mathematical, statistical or medical issue. The meaning and history of Death in Hinduism is deeply connected to the way that the universe was conceived.
