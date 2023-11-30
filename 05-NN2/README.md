@@ -48,4 +48,12 @@ Response: What to do if you are bullied by others? How to deal with a bullie? Wh
 Response: What it's like to feel resentful?"
 "It is." She looked at him with a smile. "But I don't know what to do. I can't let you go. You have to stay. And I have no choice. If
 
+5. Prompt: What's the benefits of extreme selfishness?
+   
+Response: What's the benefits of extreme selfishness?"
+"It is a very good thing."
+
+"So, what are the disadvantages? Well, the first is that you have to
+be very careful about what you say. You have got to
+
 
